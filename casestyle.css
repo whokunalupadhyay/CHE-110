@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;700&display=swap");
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+.container{
+    max-width: 1180px;
+    margin-inline: auto;
+    padding-inline: 20PX
+}
+
+.small-bold-text{
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-align: center;
+
+}
+
+.top-banner{
+    background-color:darkorange;
+    background-size: 500px;
+}
+
+
+h1{
+    font-family: 'poppins', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    line-height: 50%;
+}
+
+.first_casestudy{
+    font-family: 'poppins', sans-serif;
+    margin-top: 2%;
+}
+
+.study_area{
+    text-align: center;
+}
+
+.first_image{
+    padding-right: 10%;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+}
